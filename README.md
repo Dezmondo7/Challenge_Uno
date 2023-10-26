@@ -7,6 +7,7 @@ This will be documented in the below with step by step changes made to improve t
 Changed the title from website to Horiseon
 Added alt tag & description to ./assets/images/search-engine-optimization.jpeg
 Removed ID of online-reputation-management from CSS as no style requirments
-
+Added alt tag & description to ./assets/images/online-reputation-management.jpg
+Removed the ID of social-media-marketing from CSS as no style requirments
 
 
