@@ -14,6 +14,11 @@ Added sematic tags to the HTML
 Changed class of the navigation bar to .navbar
 updated CSS file to match .navbar
 Added Alt tag & description to /assets/images/social-media-marketing.jp
+Added alt tag & description to ./assets/images/brand-awareness.png
+Added alt tag & description to ./assets/images/cost-management.png
+Removed </image> tag and closed off section correctly with />
+
+
 
 
 
