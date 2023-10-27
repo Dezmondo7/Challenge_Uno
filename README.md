@@ -10,6 +10,10 @@ Added alt tag & description to ./assets/images/online-reputation-management.jpg
 Re-arranged the CSS linking all the correctly styled items together in the way I imagined that they would be coded so that it is easier to read
 Added comments to the HTML file
 Added comments to the CSS file
+Added sematic tags to the HTML 
+Changed class of the navigation bar to .navbar
+updated CSS file to match .navbar
+Added Alt tag & description to /assets/images/social-media-marketing.jp
 
 
 
